@@ -1,5 +1,5 @@
 ## t3rn-airdrop-bot:
-
+ 
 -A bot designed to automate transactions and bridge assets on the t3rn network, making the process seamless and efficient.
 Now supports both Base Sepolia, Optimism Sepolia and Arbitrum Sepolia testnets.
 
